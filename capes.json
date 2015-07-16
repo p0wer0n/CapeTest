@@ -2,8 +2,13 @@
         "capeUrl": "https://raw.githubusercontent.com/p0wer0n/MinecraftCapes/master/GRSB%20CapeMod.png",
         "users": [
             "jrd",
-            "MinerID642"
+            "MinerID642",
+            "Chromium",
+            "Test"
         ]
     },
-    "jrd": "https://raw.githubusercontent.com/p0wer0n/MinecraftCapes/master/GRSB%20CapeMod.png"
+    "jrd": "https://raw.githubusercontent.com/p0wer0n/MinecraftCapes/master/GRSB%20CapeMod.png",
+    "Chromium": "https://raw.githubusercontent.com/p0wer0n/MinecraftCapes/master/GRSB%20CapeMod.png",
+    "Test": "https://raw.githubusercontent.com/p0wer0n/MinecraftCapes/master/GRSB%20CapeMod.png",
+    "masterandro": "https://raw.githubusercontent.com/p0wer0n/MinecraftCapes/master/GRSB%20CapeMod.png"
 }
