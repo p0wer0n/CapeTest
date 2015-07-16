@@ -1,4 +1,3 @@
-Chromium
 jrd
 masterandro
 GetShrekt
