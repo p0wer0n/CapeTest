@@ -1,33 +1,9 @@
-{      
-    "Testers": {       
-        "capeUrl": "http://i.imgur.com/tKyh83K.png",       
-        "users": [     
-            "jrd",      
-            "Test",      
-            "BlueGuyARed",     
-            "DirectGamerHD",       
-            "Poker72",     
-            "Hapoo",       
-            "IanSzot",     
-            "kking1",       
-            "LlamasATA_",      
-            "Taizzz",      
-            "Pluto1099",       
-            "Spenczer",        
-            "TISSIN",
-            "ma56nin9",
-            "aRandomBob157",
-            "GreatLordOz"
-        ]      
-    },     
-           
-    "jrd": "http://i.imgur.com/tpt6jYE.png",      
-    "Test": "http://i.imgur.com/Sekx0xi.png",
-    "SnazzySmurf": "http://i.imgur.com/qgxMio1.png",     
-    "ldr_chicken": "http://i.imgur.com/28KZCPn.png",
-    "Drevw":"http://i.imgur.com/FWueeB6.png",
-    "BadBoyHalo":"http://i.imgur.com/wC92QDS.png",
-    "b0b4444":"http://i.imgur.com/d6WWVJx.png",
-    "KazWolfe":"http://i.imgur.com/d6WWVJx.png",
-    "TechDweebGaming":"http://i.imgur.com/kmFCuol.png"
+    "Group1": {
+        "capeUrl": "https://raw.githubusercontent.com/p0wer0n/MinecraftCapes/master/GRSB%20CapeMod.png",
+        "users": [
+            "jrd",
+            "MinerID642"
+        ]
+    },
+    "jrd": "https://raw.githubusercontent.com/p0wer0n/MinecraftCapes/master/GRSB%20CapeMod.png"
 }
