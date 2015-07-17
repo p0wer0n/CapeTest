@@ -1,12 +1,12 @@
 {
     "Group1": {
-        "capeUrl": "http://i.imgur.com/CswiS.png",
+        "capeUrl": "https://raw.githubusercontent.com/p0wer0n/MinecraftCapes/master/Sanic%20Cape2.png",
         "users": [
             "Test",
             "MinerID642",
             "jrd",
         ]
     },
-    "Test": "http://i.imgur.com/CswiS.png",
-    "jrd": "http://i.imgur.com/CswiS.png"
+    "Test": "https://raw.githubusercontent.com/p0wer0n/MinecraftCapes/master/Sanic%20Cape2.png",
+    "jrd": "https://raw.githubusercontent.com/p0wer0n/MinecraftCapes/master/Sanic%20Cape2.png"
 }
