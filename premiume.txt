@@ -4,4 +4,3 @@ GetShrekt
 MinecraftSupport
 Test
 LeakingPanda
-Chromium
